@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.button-bg-color{
+    background-color: #FA0E50;
+}
+
+.logo-color{
+    color: #FA0E50;
+  
+}
+
+.text-color-red{
+    color: #FA0E50;
+    font-family: charter;
+    font-size: 40px;
+    
+}
+
+.text-color-cyan{
+    color: #1e99bb;
+    font-family: charter;
+    font-size: 40px;
+    
+}

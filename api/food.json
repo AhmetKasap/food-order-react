@@ -1,0 +1,317 @@
+{
+    "resturants": [
+        {
+            "id": 0,
+            "title": "Pideci Yaşar",
+            "img": "https://images.pexels.com/photos/8963961/pexels-photo-8963961.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "price": "400TL",
+            "favorite": "9/10(+1000)",
+            "information" : "Pide, Lahmacun, Kebab...",
+            "href" : "pideci-yasar",
+            "menus_title": [
+                {
+                    "id": 0,
+                    "title": "Menüler"
+                },
+                {
+                    "id": 1,
+                    "title": "Pideler"
+                },
+                {
+                    "id": 2,
+                    "title": "Lahmacunlar"
+                },
+                {
+                    "id": 3,
+                    "title": "İçecekler"
+                }
+            ],
+            "foods" : [
+                {"id" : 0, "food_title" : "Kaşarlı Pide", "content" : "Kaşarlı Pide", "price" : 80 , "img" : ""},
+                {"id" : 1, "food_title" : "Patatesli Pide", "content" : "Patatesli Pide", "price" : 80 , "img" : ""},
+                {"id" : 2, "food_title" : "Urfa Lahmacun", "content" : "3 Adet Lahmacun", "price" : 120 , "img" : ""},
+                {"id" : 3, "food_title" : "Kuşbaşı Pide", "content" : "Kuşbaşılı Pide", "price" : 100 , "img" : ""},
+                {"id" : 4, "food_title" : "Acılı Urfa Lahmacun", "content" : "Acılı 3 Adet Lahmacun", "price" : 120 , "img" : ""},
+                {"id" : 5, "food_title" : "Tavuklu Pide", "content" : "Tavuklu Pide", "price" : 100 , "img" : ""},
+                {"id" : 6, "food_title" : "Kıymalı Patatesli Menu", "content" : "Kıymalı Pide + Patatesli Pide + 1LT Cola", "price" : 180 , "img" : ""},
+                {"id" : 7, "food_title" : "8 li Lahmacun", "content" : "8 Lahmacun + 1 lt Ayran", "price" : 260 , "img" : ""},
+                {"id" : 8, "food_title" : "Kaşarlı Pide Menu", "content" : "Kaşarlı Pide + Sufle", "price" : 140 , "img" : ""},
+                {"id" : 9, "food_title" : "Ispanaklı Pide", "content" : "Ispanaklı Pide", "price" : 80 , "img" : ""}
+            ]
+
+        },
+        {
+            "id": 1,
+            "title": "Urfa Sofrası",
+            "img": "https://img.freepik.com/free-photo/top-view-kebab-mix-with-bulgur-onion-pita-bread-with-vegetables-stand_141793-13137.jpg?size=626&ext=jpg",
+            "price": "200TL",
+            "favorite": "9/10(+1000)",
+            "information" : "Urfa Kebabı, Ciğer, Lahmacun ...",
+            "href" : "",
+            "menus_title": [
+                {
+                    "id": 0,
+                    "title": "Menüler"
+                },
+                {
+                    "id": 1,
+                    "title": "Kebablar"
+                },
+                {
+                    "id": 2,
+                    "title": "Lahmacunlar"
+                },
+                {
+                    "id": 3,
+                    "title": "İçecekler"
+                }
+            ],
+            "foods" : [
+                {"id" : 0, "food_title" : "Urfa Kebabı", "content" : "Urfa Kebabı", "price" : 80 , "img" : ""},
+                {"id" : 1, "food_title" : "Patlıcan Kebabı", "content" : "Patlıcan Kebabı", "price" : 80 , "img" : ""},
+                {"id" : 2, "food_title" : "Domatesli Kebab", "content" : "Domatesli Kebab", "price" : 120 , "img" : ""},
+                {"id" : 3, "food_title" : "Adana Kebab", "content" : "Adana Kebab", "price" : 100 , "img" : ""},
+                {"id" : 4, "food_title" : "Acılı Urfa Lahmacun", "content" : "Acılı 3 Adet Lahmacun", "price" : 120 , "img" : ""},
+                {"id" : 5, "food_title" : "8 li Lahmacun", "content" : "8 Lahmacun + 1 lt Ayran", "price" : 260 , "img" : ""},
+                {"id" : 6, "food_title" : "Karışık Izgara Menu", "content" : "1 Porsiyon Adana + 1 Porsiyon Urfa", "price" : 240 , "img" : ""}
+            ]
+
+        },
+        {
+            "id": 2,
+            "title": "Life Pizza",
+            "img": "https://images.pexels.com/photos/1146760/pexels-photo-1146760.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "price": "100TL",
+            "favorite": "7/10(+100)",
+            "information" : "Pizza, Karışık Pizza, Tavuklu Pizza...",
+            "href" : "",
+            "menus_title": [
+                {
+                    "id": 0,
+                    "title": "Menüler"
+                },
+                {
+                    "id": 1,
+                    "title": "Pizzalar"
+                },
+                {
+                    "id": 2,
+                    "title": "Tavuklar"
+                },
+                {
+                    "id": 3,
+                    "title": "İçecekler"
+                }
+            ],
+            "foods" : [
+                {"id" : 0, "food_title" : "Karışık Pizza", "content" : "Sucuk, kaşar, domates, zeytin, biber", "price" : 120 , "img" : ""},
+                {"id" : 1, "food_title" : "Margarita", "content" : "Kaşar peyniri, incecik hamur", "price" : 80 , "img" : ""},
+                {"id" : 2, "food_title" : "Special Pizza", "content" : "Domates, tavuk, mantar, biber", "price" : 120 , "img" : ""},
+                {"id" : 3, "food_title" : "Mantarlı Pizza", "content" : "Mantar,sucuk, kaşar", "price" : 100 , "img" : ""},
+                {"id" : 4, "food_title" : "Kapadokya Pizza", "content" : "Yeşil biber, domates, sucuk, kaşar, salam", "price" : 120 , "img" : ""},
+                {"id" : 5, "food_title" : "Orta Boy Menu", "content" : "Margarita + 1LT Cola", "price" : 100 , "img" : ""},
+                {"id" : 6, "food_title" : "Büyük Boy Menu", "content" : "Karışık Pizza + 1LT Cola", "price" : 180 , "img" : ""},
+                {"id" : 7, "food_title" : "16 lı Soğan Halkası", "content" : "16 lı Soğan Halkası", "price" : 260 , "img" : ""},
+                {"id" : 8, "food_title" : "24 lü Çıtır Tavuk", "content" : "24 lü Çıtır Tavuk", "price" : 140 , "img" : ""}
+            ]
+
+        },
+        {
+            "id": 3,
+            "title": "Defne Döner",
+            "img": "https://img.freepik.com/free-photo/side-view-chicken-doner-with-greens-cucumber-tomato-sauce-cucumber-red-onion-pita-slice-lemon-board_141793-4824.jpg?w=1380&t=st=1691144435~exp=1691145035~hmac=fc32d4453abb5633a690695217d332ba8e154838ca329eaa5a63dd8294e39292",
+            "price": "200TL",
+            "favorite": "6.5/10(+1000)",
+            "information" : "Tavuk döner, İskender, Zurna ...",
+            "href" : "",
+            "menus_title": [
+                {
+                    "id": 0,
+                    "title": "Menüler"
+                },
+                {
+                    "id": 1,
+                    "title": "Tavuk Dönerler"
+                },
+                {
+                    "id": 2,
+                    "title": "Et Dönerler"
+                },
+                {
+                    "id": 3,
+                    "title": "İçecekler"
+                }
+            ],
+            "foods" : [
+                {"id" : 0, "food_title" : "Tavuk Döner", "content" : "Tavuk Döner 90 gr", "price" : 80 , "img" : ""},
+                {"id" : 1, "food_title" : "Tavuk Döner", "content" : "Tavuk Döner 120 gr", "price" : 100 , "img" : ""},
+                {"id" : 2, "food_title" : "Et Döner", "content" : "Et Döner 90 gr", "price" : 120 , "img" : ""},
+                {"id" : 3, "food_title" : "Et Döner", "content" : "Et Döner 120 gr", "price" : 140 , "img" : ""},
+                {"id" : 4, "food_title" : "Kaşarlı Tavuk Döner", "content" : "Kaşarlı Tavuk Döner", "price" : 120 , "img" : ""},
+                {"id" : 5, "food_title" : "İskender", "content" : "İskender + Ekemek + Cola", "price" : 200 , "img" : ""},
+                {"id" : 6, "food_title" : "Tavuk Döner Menu" , "content" : "Tavuk Döner 120gr + 1LT Cola", "price" : 150 , "img" : ""}
+            ]
+
+        },
+        {
+            "id": 4,
+            "title": "Fıstıkoglu Baklavaları",
+            "img": "https://img.freepik.com/free-photo/close-up-view-traditional-turkish-baklava-with-pistachio-black-board_141793-6052.jpg?size=626&ext=jpg",
+            "price": "200TL",
+            "favorite": "9.5/10(+10000)",
+            "information" : "Fıstıklı Baklava, Şöbiyet, Dondurma ...",
+            "href" : "",
+            "menus_title": [
+                {
+                    "id": 0,
+                    "title": "Menüler"
+                },
+                {
+                    "id": 1,
+                    "title": "Baklavalar"
+                },
+                {
+                    "id": 2,
+                    "title": "Dondurmalar"
+                },
+                {
+                    "id": 3,
+                    "title": "İçecekler"
+                }
+            ],
+            "foods" : [
+                {"id" : 0, "food_title" : "Fıstıklı Baklava", "content" : "Fıstıklı Baklava 1kg", "price" : 400 , "img" : ""},
+                {"id" : 1, "food_title" : "Fıstıklı Baklava", "content" : "Tavuk Döner 500 gr", "price" : 200 , "img" : ""},
+                {"id" : 2, "food_title" : "Şöbiyet", "content" : "Şöbiyet 1kg", "price" : 400 , "img" : ""},
+                {"id" : 3, "food_title" : "Şöbiyet", "content" : "Şöbiyet 500 gr", "price" : 140 , "img" : ""},
+                {"id" : 4, "food_title" : "Cevizli Baklava", "content" : "Cevizli Baklava 500 gr", "price" : 120 , "img" : ""},
+                {"id" : 5, "food_title" : "Dondurma", "content" : "Maraş Dondurması 1kg", "price" : 100 , "img" : ""}
+            ]
+
+        },
+        {
+            "id": 5,
+            "title": "Dom Pizza",
+            "img": "https://img.freepik.com/free-photo/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai_188544-12347.jpg?w=1380&t=st=1691144623~exp=1691145223~hmac=8abad89e364c3d287616fccc7d3638677bd921d96813d64bf8475f86fad1efb7",
+            "price": "200TL",
+            "favorite": "8/10(+500)",
+            "information" : "Pizza, Spesyel Pizzalar, Karışık Pizzalar ...",
+            "href" : "",
+            "menus_title": [
+                {
+                    "id": 0,
+                    "title": "Menüler"
+                },
+                {
+                    "id": 1,
+                    "title": "Pizzalar"
+                },
+                {
+                    "id": 2,
+                    "title": "Tavuklar"
+                },
+                {
+                    "id": 3,
+                    "title": "İçecekler"
+                }
+            ],
+            "foods" : [
+                {"id" : 0, "food_title" : "Karışık Pizza", "content" : "Sucuk, kaşar, domates, zeytin, biber", "price" : 120 , "img" : ""},
+                {"id" : 1, "food_title" : "Margarita", "content" : "Kaşar peyniri, incecik hamur", "price" : 80 , "img" : ""},
+                {"id" : 2, "food_title" : "Special Pizza", "content" : "Domates, tavuk, mantar, biber", "price" : 120 , "img" : ""},
+                {"id" : 3, "food_title" : "Mantarlı Pizza", "content" : "Mantar,sucuk, kaşar", "price" : 100 , "img" : ""},
+                {"id" : 4, "food_title" : "Kapadokya Pizza", "content" : "Yeşil biber, domates, sucuk, kaşar, salam", "price" : 120 , "img" : ""},
+                {"id" : 5, "food_title" : "Orta Boy Menu", "content" : "Margarita + 1LT Cola", "price" : 100 , "img" : ""},
+                {"id" : 6, "food_title" : "Büyük Boy Menu", "content" : "Karışık Pizza + 1LT Cola", "price" : 180 , "img" : ""},
+                {"id" : 7, "food_title" : "16 lı Soğan Halkası", "content" : "16 lı Soğan Halkası", "price" : 260 , "img" : ""},
+                {"id" : 8, "food_title" : "24 lü Çıtır Tavuk", "content" : "24 lü Çıtır Tavuk", "price" : 140 , "img" : ""}
+            ]
+
+        },
+        {
+            "id": 6,
+            "title": "Midyeci Baki",
+            "img": "https://img.freepik.com/free-photo/close-up-tasty-mussels-with-lemon_23-2148375646.jpg?size=626&ext=jpg",
+            "price": "200TL",
+            "favorite": "9.5/10(+10000)",
+            "information" : "Taze, Temiz Midyeler ...",
+            "href" : "",
+            "menus_title": [
+                {
+                    "id": 0,
+                    "title": "Menüler"
+                },
+                {
+                    "id": 1,
+                    "title": "Baklavalar"
+                },
+                {
+                    "id": 2,
+                    "title": "Dondurmalar"
+                },
+                {
+                    "id": 3,
+                    "title": "İçecekler"
+                }
+            ],
+            "foods" : [
+                {"id" : 0, "food_title" : "Midye Dolma 5 adet", "content" : "Limon ile", "price" : 50 , "img" : ""},
+                {"id" : 1, "food_title" : "Midye Dolma 10 adet", "content" : "Limon ile", "price" : 100 , "img" : ""},
+                {"id" : 2, "food_title" : "Midye Dolma 15 adet", "content" : "Limon ile", "price" : 150 , "img" : ""},
+
+                {"id" : 3, "food_title" : "Çeyrek Kokoreç", "content" : "Baharat ile", "price" : 50 , "img" : ""},
+                {"id" : 4, "food_title" : "Yarım Kokoreç", "content" : "Baharat ile", "price" : 100 , "img" : ""},
+                {"id" : 5, "food_title" : "Tam Kokoreç", "content" : "Baharat ile", "price" : 200 , "img" : ""},
+                {"id" : 6, "food_title" : "Uzay Kokoreç", "content" : "Baharat ile", "price" : 150 , "img" : ""},
+                {"id" : 7, "food_title" : "Sade Kokoreç", "content" : "Baharat ile", "price" : 150 , "img" : ""},
+                {"id" : 8, "food_title" : "Special Kokoreç", "content" : "Baharat ile", "price" : 150 , "img" : ""}
+            ]
+
+        },
+        {
+            "id": 7,
+            "title": "XXY Ciğer",
+            "img": "https://img.freepik.com/free-photo/side-view-shish-kebab-skewers-with-tomato-onion-ayran-white-plate_176474-3219.jpg?w=1380&t=st=1691144720~exp=1691145320~hmac=0d5ccfcb650bce0852cb275cbb660fc5acb33e00fa033d086e3ffe3155e24abd",
+            "price": "200TL",
+            "favorite": "9/10(+1000)",
+            "information" : "Urfa Kebabı, Ciğer, Lahmacun ...",
+            "href" : "",
+            "menus_title": [
+                {
+                    "id": 0,
+                    "title": "Menüler"
+                },
+                {
+                    "id": 1,
+                    "title": "Kebablar"
+                },
+                {
+                    "id": 2,
+                    "title": "Lahmacunlar"
+                },
+                {
+                    "id": 3,
+                    "title": "İçecekler"
+                }
+            ],
+            "foods" : [
+                {"id" : 0, "food_title" : "Urfa Kebabı", "content" : "Urfa Kebabı", "price" : 80 , "img" : ""},
+                {"id" : 1, "food_title" : "Patlıcan Kebabı", "content" : "Patlıcan Kebabı", "price" : 80 , "img" : ""},
+                {"id" : 2, "food_title" : "Domatesli Kebab", "content" : "Domatesli Kebab", "price" : 120 , "img" : ""},
+                {"id" : 3, "food_title" : "Adana Kebab", "content" : "Adana Kebab", "price" : 100 , "img" : ""},
+                {"id" : 4, "food_title" : "Acılı Urfa Lahmacun", "content" : "Acılı 3 Adet Lahmacun", "price" : 120 , "img" : ""},
+                {"id" : 5, "food_title" : "8 li Lahmacun", "content" : "8 Lahmacun + 1 lt Ayran", "price" : 260 , "img" : ""},
+                {"id" : 6, "food_title" : "Karışık Izgara Menu", "content" : "1 Porsiyon Adana + 1 Porsiyon Urfa", "price" : 240 , "img" : ""},
+                {"id" : 7, "food_title" : "Ciğer (Yarım)", "content" : "Ekemek, salata ile ", "price" : 120 , "img" : ""},
+                {"id" : 8, "food_title" : "Urfa (Tam)", "content" : "Ekmek, salata ile", "price" : 120 , "img" : ""}
+
+            ]
+
+        }
+
+        
+
+        
+        
+    ]
+}
